@@ -1,1 +1,1 @@
-manage terraform state file usinf S3 and DynamoDB
+Manage terraform state file using S3 and DynamoDB
